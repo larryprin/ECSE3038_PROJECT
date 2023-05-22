@@ -158,16 +158,4 @@ def parse_time(time_str):
     return timedelta(**time_params)
 ```
 
-## Submission
-
-Your GitHub repository should be organised as follows:
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4dacc356-15cc-4f3d-96a2-c6ef4f829215/Untitled.png)
-
-Due date is May 19, 2023.
-
-The repo name must be "ECSE3038_Project".
-
-You're only required to provide a link to your GitHub repository. 
-
-Any commits made to the repo after the due date will not be considered.
+The API link: https://lawd-have-mercy.onrender.com
